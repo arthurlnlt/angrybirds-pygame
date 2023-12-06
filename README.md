@@ -7,12 +7,18 @@ Un jeu type Angry Birds réalisé en Python, codé avec Pygame.
 Clonez notre répertoire Github, puis lancez simplement le main.py Appuyez sur start, et le jeu se lance. Celui-ci se joue avec la souris.
 
 ### Pré-requis
-
-Ce qu'il est requis pour exécuter correctement notre projet
-
 - Pygame
 - Python 3.11
-- Un interpréteur Python
+
+## Installation
+
+Intsaller ce projet avec git:
+
+```bash
+git clone https://github.com/arthurlnlt/angrybirds-pygame
+cd angrybirds-pygame
+pip install -r requirements.txt
+```
 
 ## Auteurs
 Projet réalisé par :
